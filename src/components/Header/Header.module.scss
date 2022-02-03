@@ -1,0 +1,27 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.wrapper {
+    display: flex;
+    align-items: center;
+}
+
+.change_theme, .logo {
+    margin-right: 15px;
+    & svg {
+      width: 35px;
+      height: 35px;
+      cursor: pointer;
+    }
+}
+
+.title {
+    font-weight: bold;
+    font-size: 18px;
+}
+
