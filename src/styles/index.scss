@@ -10,10 +10,11 @@
 body {
   position: relative;
   font-family: 'Montserrat', sans-serif;
+  background: var(#{--body-background-default});
 }
 
 .container {
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 20px 16px;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px 16px;
 }

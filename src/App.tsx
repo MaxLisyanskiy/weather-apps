@@ -8,7 +8,7 @@ import { MonthStatistics } from './pages/MonthStatistics/MonthStatistics';
 function App() {
   return (
     <>
-      <Popup />
+      {/* <Popup /> */}
       <div className="container">
         <Header />
         <Routes>
