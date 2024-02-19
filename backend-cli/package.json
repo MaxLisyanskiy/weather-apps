@@ -1,5 +1,5 @@
 {
-  "name": "@maxlisyanskiy/weather-cli",
+  "name": "weather-cli_maxlisyanskiy",
   "version": "1.0.0",
   "description": "CLI for getting current weather info",
   "main": "index.js",
@@ -22,5 +22,8 @@
     "eslint": "^8.56.0",
     "prettier": "^3.2.5",
     "prettier-eslint": "^16.3.0"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
