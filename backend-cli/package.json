@@ -1,5 +1,5 @@
 {
-  "name": "weather-cli",
+  "name": "@maxlisyanskiy/weather-cli",
   "version": "1.0.0",
   "description": "CLI for getting current weather info",
   "main": "index.js",
